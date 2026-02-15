@@ -16,5 +16,5 @@ The Process:
 8. Type the command 'pwd' to check your current location and 'ls' command to check the README.md files.
 9. Edit the README.md file by typing the command 'nano README.md'.
 10. Type the description of your repository and then save it by typing Ctrl+X, then type Y to say Yes, and then type Enter.
-11. To publish your updated README.md file, type the command 'git commit' and enter the commit description, and then type the command 'git push' to push it to your Github Account.
+11. To publish your updated README.md file, type the command 'git commit' and enter the commit description, and then type the command 'git push origin main' to push it to your Github Account.
 
